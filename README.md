@@ -1,2 +1,2 @@
 # Nekonote
-ExcelVBA snipet
+ExcelVBA snipet and ideas.
