@@ -10,3 +10,10 @@ Else
 End If
 
 End Sub
+
+Function del_space(str As String)
+    Dim ret As String
+    ret = Replace(str, " ", "") '半角
+    ret = Replace(ret, "　", "") '全角
+    del_space = ret
+End Function
